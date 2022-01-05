@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+  - defaults
+channel_priority: strict
+allow_softlinks: true
+auto_activate_base: false
+changeps1: false
